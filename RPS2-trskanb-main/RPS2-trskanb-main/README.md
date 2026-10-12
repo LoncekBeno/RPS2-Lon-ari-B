@@ -1,2 +1,2 @@
-# RPS2-trskanb
+# RPS2-loncaricb
 glavni repozitorij
